@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28c9fc31-fe81-4922-8f5b-29341e5da292" name="Changes" comment="CVPR合集">
+    <list default="true" id="28c9fc31-fe81-4922-8f5b-29341e5da292" name="Changes" comment="ICCV论文合集">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -117,7 +117,111 @@
       <option name="project" value="LOCAL" />
       <updated>1710674648475</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="CVPR合集">
+      <option name="closed" value="true" />
+      <created>1710675443544</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710675443544</updated>
+    </task>
+    <task id="LOCAL-00008" summary="CVPR合集">
+      <option name="closed" value="true" />
+      <created>1710675463841</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710675463841</updated>
+    </task>
+    <task id="LOCAL-00009" summary="CVPR合集">
+      <option name="closed" value="true" />
+      <created>1710675503428</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710675503428</updated>
+    </task>
+    <task id="LOCAL-00010" summary="CVPR合集">
+      <option name="closed" value="true" />
+      <created>1710675592911</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710675592911</updated>
+    </task>
+    <task id="LOCAL-00011" summary="CVPR合集">
+      <option name="closed" value="true" />
+      <created>1710675619434</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710675619434</updated>
+    </task>
+    <task id="LOCAL-00012" summary="交流群">
+      <option name="closed" value="true" />
+      <created>1710676964884</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1710676964884</updated>
+    </task>
+    <task id="LOCAL-00013" summary="交流群">
+      <option name="closed" value="true" />
+      <created>1710677180525</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1710677180525</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ECCV论文合集">
+      <option name="closed" value="true" />
+      <created>1710679438366</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1710679438366</updated>
+    </task>
+    <task id="LOCAL-00015" summary="ICCV论文合集">
+      <option name="closed" value="true" />
+      <created>1710679493502</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1710679493502</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ICCV论文合集">
+      <option name="closed" value="true" />
+      <created>1710679542964</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1710679542964</updated>
+    </task>
+    <task id="LOCAL-00017" summary="ICCV论文合集">
+      <option name="closed" value="true" />
+      <created>1710679565845</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1710679565845</updated>
+    </task>
+    <task id="LOCAL-00018" summary="ICCV论文合集">
+      <option name="closed" value="true" />
+      <created>1710679610299</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1710679610299</updated>
+    </task>
+    <task id="LOCAL-00019" summary="ICCV论文合集">
+      <option name="closed" value="true" />
+      <created>1710679725107</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1710679725107</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +240,9 @@
     <MESSAGE value="添加cvpr" />
     <MESSAGE value="2023年历史合集" />
     <MESSAGE value="CVPR合集" />
-    <option name="LAST_COMMIT_MESSAGE" value="CVPR合集" />
+    <MESSAGE value="交流群" />
+    <MESSAGE value="ECCV论文合集" />
+    <MESSAGE value="ICCV论文合集" />
+    <option name="LAST_COMMIT_MESSAGE" value="ICCV论文合集" />
   </component>
 </project>
