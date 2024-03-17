@@ -33,5 +33,5 @@
 [ECCV2023](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/ICCV/ICCV2023.md)<br>
 
 
-*本项目还在努力建设中，欢迎对医学图像领域感兴趣的伙伴们进群交流学习，一起为开源知识努力*<br>
+*本项目还在努力建设中，欢迎对医学图像领域感兴趣的伙伴们进群交流学习，一起为开源知识努力吧*<br>
 ![交流学习](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/scripts/chat.png)
