@@ -26,11 +26,11 @@
 [ECCV2022](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/ECCV/ECCV2022.md)<br>
 
 ### ICCV收录医学图像领域论文集合：
-[ECCV2015](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/ICCV/ICCV2015.md)<br>
-[ECCV2017](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/ICCV/ICCV2017.md)<br>
-[ECCV2019](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/ICCV/ICCV2019.md)<br>
-[ECCV2021](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/ICCV/ICCV2021.md)<br>
-[ECCV2023](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/ICCV/ICCV2023.md)<br>
+[ICCV2015](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/ICCV/ICCV2015.md)<br>
+[ICCV2017](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/ICCV/ICCV2017.md)<br>
+[ICCV2019](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/ICCV/ICCV2019.md)<br>
+[ICCV2021](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/ICCV/ICCV2021.md)<br>
+[ICCV2023](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/ICCV/ICCV2023.md)<br>
 
 
 *本项目还在努力建设中，欢迎对医学图像领域感兴趣的伙伴们进群交流学习，一起为开源知识努力吧*<br>
