@@ -18,3 +18,7 @@
 [CVPR2021](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/CVPR/CVPR2021.md)<br>
 [CVPR2022](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/CVPR/CVPR2022.md)<br>
 [CVPR2023](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/CVPR/CVPR2023.md)<br>
+
+
+*本项目还在努律建设中，欢迎对医学图像领域感兴趣的伙伴们进群交流学习，一起为开源知识努力*<br>
+![交流学习](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/scripts/chat.png)
