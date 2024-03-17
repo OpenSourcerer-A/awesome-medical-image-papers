@@ -4,9 +4,9 @@
 [CVPR](https://cvpr.thecvf.com/)<br>
 [ECCV](https://eccv2024.ecva.net/)<br>
 [ICCV](https://iccv2023.thecvf.com/)<br>
-[TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)<br>
-[MIA](https://www.sciencedirect.com/journal/medical-image-analysis)<br>
-[MICCAI](https://conferences.miccai.org/2024/en/)<br>
+[TMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42) todo<br>
+[MIA](https://www.sciencedirect.com/journal/medical-image-analysis) todo<br>
+[MICCAI](https://conferences.miccai.org/2024/en/) todo<br>
 
 ### CVPR收录医学图像领域论文集合：
 [CVPR2015](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/CVPR/CVPR2015.md)<br>
