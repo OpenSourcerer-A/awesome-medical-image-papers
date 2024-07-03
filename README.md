@@ -18,7 +18,7 @@
 [CVPR2021](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/CVPR/CVPR2021.md)<br>
 [CVPR2022](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/CVPR/CVPR2022.md)<br>
 [CVPR2023](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/CVPR/CVPR2023.md)<br>
-[CVPR2024持续更新中](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/CVPR/CVPR2024%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0.md)<br>
+[CVPR2024](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/CVPR/CVPR2024%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0.md)<br>
 
 ### ECCV收录医学图像领域论文集合：
 [ECCV2018](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/ECCV/ECCV2018.md)<br>
