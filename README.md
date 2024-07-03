@@ -34,4 +34,5 @@
 
 
 *本项目还在努力建设中，欢迎对医学图像领域感兴趣的伙伴们进群交流学习，一起为开源知识努力吧*<br>
-![交流学习](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/scripts/chat.png)
+![交流学习公众号](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/scripts/qrcode_for_gh_d4a22922453e_258.jpg)
+![交流学习数据群](https://github.com/OpenSourcerer-A/awesome-medical-image-papers/blob/master/scripts/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240703211734.png)
